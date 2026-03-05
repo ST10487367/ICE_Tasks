@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\blh\\OneDrive\\Emeris\\Year 2\\Semester 3\\PROG6221\\VS For C#\\MovieRatingApp\\MovieRatingApp\\MovieRatingApp.csproj": {}
+    "C:\\blh\\OneDrive\\Emeris\\GIT Uploads\\Year_2\\ICE_Tasks\\MovieRatingApp\\MovieRatingApp.csproj": {}
   },
   "projects": {
-    "C:\\blh\\OneDrive\\Emeris\\Year 2\\Semester 3\\PROG6221\\VS For C#\\MovieRatingApp\\MovieRatingApp\\MovieRatingApp.csproj": {
+    "C:\\blh\\OneDrive\\Emeris\\GIT Uploads\\Year_2\\ICE_Tasks\\MovieRatingApp\\MovieRatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\blh\\OneDrive\\Emeris\\Year 2\\Semester 3\\PROG6221\\VS For C#\\MovieRatingApp\\MovieRatingApp\\MovieRatingApp.csproj",
+        "projectUniqueName": "C:\\blh\\OneDrive\\Emeris\\GIT Uploads\\Year_2\\ICE_Tasks\\MovieRatingApp\\MovieRatingApp.csproj",
         "projectName": "MovieRatingApp",
-        "projectPath": "C:\\blh\\OneDrive\\Emeris\\Year 2\\Semester 3\\PROG6221\\VS For C#\\MovieRatingApp\\MovieRatingApp\\MovieRatingApp.csproj",
+        "projectPath": "C:\\blh\\OneDrive\\Emeris\\GIT Uploads\\Year_2\\ICE_Tasks\\MovieRatingApp\\MovieRatingApp.csproj",
         "packagesPath": "C:\\Users\\easy-\\.nuget\\packages\\",
-        "outputPath": "C:\\blh\\OneDrive\\Emeris\\Year 2\\Semester 3\\PROG6221\\VS For C#\\MovieRatingApp\\MovieRatingApp\\obj\\",
+        "outputPath": "C:\\blh\\OneDrive\\Emeris\\GIT Uploads\\Year_2\\ICE_Tasks\\MovieRatingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

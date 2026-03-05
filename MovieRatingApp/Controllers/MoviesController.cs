@@ -14,6 +14,8 @@ namespace MovieRatingApp.Controllers
     {
         private readonly AppDbContent _context;
 
+
+
         public MoviesController(AppDbContent context)
         {
             _context = context;

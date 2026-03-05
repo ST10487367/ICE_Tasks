@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BCbfnh8MQXQ=",
+  "dgSpecHash": "MwAcf30r+XY=",
   "success": true,
-  "projectFilePath": "C:\\blh\\OneDrive\\Emeris\\Year 2\\Semester 3\\PROG6221\\VS For C#\\MovieRatingApp\\MovieRatingApp\\MovieRatingApp.csproj",
+  "projectFilePath": "C:\\blh\\OneDrive\\Emeris\\GIT Uploads\\Year_2\\ICE_Tasks\\MovieRatingApp\\MovieRatingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\easy-\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\easy-\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
